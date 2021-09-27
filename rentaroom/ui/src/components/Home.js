@@ -40,7 +40,7 @@ export default class Home extends Component {
                 </Row>
             </Container>
 
-            <img src="img1.jpg" style={{height: "100%", width: "100%", marginTop: "30px"}}></img>
+            <img src="/static/img1.jpg" style={{height: "100%", width: "100%", marginTop: "30px"}}></img>
 
 
                 <div class="pt-5 pb-5 footer">
